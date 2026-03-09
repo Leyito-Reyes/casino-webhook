@@ -6,10 +6,10 @@ const axios = require('axios');
 const CONEKTA_PRIVATE_KEY = 'key_ueDout9YZYdoZlC3UN7kQZT'; 
 
 const dbConfig = {
-    host: 'localhost',
-    user: 'root', // Tu usuario de MySQL
-    password: '', // Tu contraseña
-    database: 'usuario' // La BD de tu archivo .sql
+    host: 'sql104.infinityfree.com',
+    user: 'if0_41341417',
+    password: 'E2006oire',
+    database: 'if0_41341417_casino'
 };
 
 // Variable para llevar el registro del contador (memoria del ciclo)
